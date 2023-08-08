@@ -61,8 +61,10 @@ private:
     // typedef message_filters::sync_policies::ApproximateTime<geometry_msgs::PoseStamped, sensor_msgs::PointCloud2> MySyncPolicy;
     // typedef message_filters::Synchronizer<MySyncPolicy> Sync;
     // boost::shared_ptr<Sync> sync;
+    //sdfsdfsdfsdfsdfsdfsdf
 
 
+// start
     ros::Subscriber subLaserCloud;
     ros::Subscriber subNode;
     
