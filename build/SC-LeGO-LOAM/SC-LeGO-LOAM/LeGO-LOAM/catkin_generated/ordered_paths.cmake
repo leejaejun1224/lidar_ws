@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/vision/cvbridge_ws/install/lib;/opt/ros/melodic/lib")

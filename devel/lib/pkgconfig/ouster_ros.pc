@@ -1,0 +1,8 @@
+prefix=/home/vision/lidar_ws/devel
+
+Name: ouster_ros
+Description: Description of ouster_ros
+Version: 0.3.1
+Cflags: -I/home/vision/lidar_ws/devel/include -I/home/vision/lidar_ws/src/ouster_example-20220504/ouster_ros/include -I/home/vision/lidar_ws/src/ouster_example-20220504/ouster_ros/../ouster_client/include -I/home/vision/lidar_ws/src/ouster_example-20220504/ouster_ros/../ouster_client/include/optional-lite -I/usr/include/eigen3
+Libs: -L${prefix}/lib -louster_ros
+Requires: roscpp message_runtime std_msgs sensor_msgs geometry_msgs

@@ -1,0 +1,2 @@
+SC-LIO-SAM/SC-LIO-SAM:SC-LeGO-LOAM/SC-LeGO-LOAM/LeGO-LOAM:SC-LeGO-LOAM/SC-LeGO-LOAM/cloud_msgs:jaejun:local_pkg:ouster_example-20220504/ouster_ros
+-DCATKIN_DEVEL_PREFIX=/home/vision/lidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vision/lidar_ws/install -G Unix Makefiles
